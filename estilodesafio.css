@@ -10,7 +10,7 @@ header{
 }
 .link-header{
     margin-right: 32px;
-    color:white 
+    color: #6FBF44
     ;
 }
 .button-header{
@@ -75,6 +75,11 @@ margin-top: 55px;
         }
     a{
         display: none;}
+        .button-header{
+            margin: 0 auto;
+            width: 200px;
+            height: 75px;
+        }
     
     }
     
